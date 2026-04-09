@@ -1,5 +1,5 @@
 # Data-analysis-without-AI
-This project demonstrates data analysis, without AI, using numpy, matplotlib, and pandas. It also shows techniques involved with Data Cleaning, combining datasets, Outlier Detection, Correlation Analysis, and Distribution Analysis.
+This project demonstrates manual data analysis, using numpy, matplotlib, and pandas. It also shows techniques involved with Data Cleaning, combining datasets, Outlier Detection, Correlation Analysis, and Distribution Analysis.
 
 Datasets Used:
 
